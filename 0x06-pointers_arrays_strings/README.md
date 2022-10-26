@@ -1,1 +1,1 @@
- project on the use of pointers and arrays in c
+0x06 more pointeers and strings
